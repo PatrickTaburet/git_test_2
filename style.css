@@ -1,3 +1,18 @@
 body{
     background-color: #ffe8f4 ;
+    text-align: center;
+    margin-left: 400px;
+    margin-right: 400px
+}
+h1, h2{
+    color: #ff7abc;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+
+}
+ol{
+    background-color: #ff93c9;
+    color: white;
+    text-align: center;
+    font-size: 40px;
 }
