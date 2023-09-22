@@ -14,9 +14,25 @@ h1, h2{
 ol{
     background-color: #ff93c9;
     color: white;
-    text-align: center;
+    text-align: left;
     font-size: 40px;
+    width: 800px;
+    margin:auto;
+    margin-bottom: 50px
 }
 h1{
     background-image: url(https://upload.wikimedia.org/wikipedia/commons/d/d7/Phoenicopterus_roseus%2C_Lido_de_Thau_cf06.jpg);
+    width: 1600px;
+    margin:auto;
+    margin-bottom: 50px;
+    font-size: 100px
+}
+img{
+    border: 6mm ridge rgba(211, 220, 50, .6);
+}
+h2{
+    border: thick double #32a1ce;
+    width:300px;
+    margin:auto;
+    margin-top:100px;
 }
